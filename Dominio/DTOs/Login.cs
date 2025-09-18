@@ -1,4 +1,4 @@
-namespace Lean.DTOs;
+namespace Learn.Dominio.DTOs;
 
 public class LoginDTO
 {
